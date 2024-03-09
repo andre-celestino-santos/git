@@ -1,0 +1,2 @@
+configure credential cache for 12hs for example
+git config --global credential.helper "cache --timeout=43200"
